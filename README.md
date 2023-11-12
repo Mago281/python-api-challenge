@@ -48,7 +48,6 @@ I mainly used the Geoapify API and the geoViews Python library to create map vis
 
 ---
 
-
 **WeatherPY**
 
 A Starter Code was provided so as to be able to generate random geographic coordinates and a list of cities by using the `citipy` library.
