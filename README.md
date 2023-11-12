@@ -48,7 +48,6 @@ I mainly used the Geoapify API and the geoViews Python library to create map vis
 
 ---
 
-________________________________________
 
 **WeatherPY**
 
