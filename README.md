@@ -17,7 +17,7 @@ The following two websites were used to obtain API keys:
 
 ---
 
-#**VacationPy**
+**VacationPy**
 
 For this part of the challenge, I used Jupyter notebook, the geoViews Python library, and the Geoapify API to plan future vacations.  The code provided for this challenge was used to import the required libraries and load the CSV file with the weather and coordinates data for each city.
 I mainly used the Geoapify API and the geoViews Python library to create map visualisations.
@@ -48,7 +48,7 @@ I mainly used the Geoapify API and the geoViews Python library to create map vis
 
 ---
 
-#**WeatherPY**
+**WeatherPY**
 
 A Starter Code was provided so as to be able to generate random geographic coordinates and a list of cities by using the `citipy` library.
 
