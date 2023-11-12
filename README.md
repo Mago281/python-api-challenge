@@ -5,7 +5,9 @@ Module 6 Challenge
 
 **Background**
 Data's true power is its ability to definitively answer questions.  As earth’s weather cannot be controlled, we can use historical data on weather to predict weather patterns and make better data-driven decisions.
+
 In this challenge, Python requests, APIs, and JSON traversals were used to answer a fundamental question: "What is the weather like as we approach the equator ?"
+
 The following two websites were used to obtain API keys:
 1.	VacationPY - https://www.geoapify.com/
 2.	WeatherPY - https://openweathermap.org/api
