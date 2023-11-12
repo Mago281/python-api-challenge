@@ -9,6 +9,7 @@ In this challenge, Python requests, APIs, and JSON traversals were used to answe
 The following two websites were used to obtain API keys:
 1.	VacationPY - https://www.geoapify.com/
 2.	WeatherPY - https://openweathermap.org/api
+3.	
 ![image](https://github.com/Mago281/python-api-challenge/assets/131424690/b0c78842-4e74-415f-b76f-f07737979836)
 
 
